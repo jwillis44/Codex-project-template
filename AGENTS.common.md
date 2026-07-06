@@ -1,4 +1,4 @@
-## Repository-Specific Notes
+## Central Repo default notes
 
 ## Security: Secrets, Input Handling, and Injection Prevention
 
